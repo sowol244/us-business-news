@@ -60,6 +60,7 @@ button, input, select {
   margin-block-start: .6rem;
   max-width: 36rem;
   color: var(--muted);
+  word-break: keep-all;
 }
 
 .masthead .last-update {
