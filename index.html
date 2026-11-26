@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="미국 주요 언론의 비즈니스 뉴스 제목과 핵심 내용을 한국어로 읽고 날짜별로 찾아보세요.">
+  <meta name="theme-color" content="#152b48">
+  <title>미국 비즈니스 뉴스</title>
+  <link rel="stylesheet" href="./style.css">
+  <script defer src="./script.js"></script>
+</head>
+<body>
+  <header class="masthead">
+    <div class="container">
+      <h1>미국 비즈니스 뉴스</h1>
+      <p>미국 주요 언론의 경제·기업 뉴스를 한국어로 읽으세요.</p>
+      <p id="last-update" class="last-update" hidden>
+        마지막 업데이트 <time id="update-time"></time> (미국 동부시간)
+      </p>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="filters" role="group" aria-label="기사 열람 조건">
+      <div class="filter-fields">
+        <div class="filter">
+          <label for="edition-select">발행일</label>
+          <select id="edition-select" disabled>
+            <option>날짜 불러오는 중</option>
+          </select>
+        </div>
+        <div class="filter">
+          <label for="keyword-search">결과 내 검색</label>
+          <input id="keyword-search" type="search" placeholder="제목, 주요 내용, 언론사" disabled>
+        </div>
+      </div>
+      <details class="publisher-filter" id="publisher-filter">
+        <summary>언론사 필터 <span id="publisher-selection">전체</span></summary>
+        <fieldset id="publisher-fields" aria-label="언론사 선택" disabled>
+          <div id="publisher-options" class="publisher-options"></div>
+          <div class="filter-actions">
+            <p>선택이 없으면 전체 언론사의 기사를 표시합니다.</p>
+            <button id="clear-publishers" type="button" disabled>선택 해제</button>
+          </div>
+        </fieldset>
+      </details>
+    </div>
+
+    <section aria-labelledby="edition-title">
+      <div class="edition-header">
+        <h2 id="edition-title">기사 모음</h2>
+        <p id="result-count" class="result-count" role="status"></p>
+      </div>
+
+      <div id="notice" class="notice" hidden>
+        <p id="notice-message" role="status"></p>
+        <button id="retry" type="button" hidden>다시 불러오기</button>
+      </div>
+      <div id="article-list" class="article-list"></div>
+      <noscript><p class="notice">기사 목록을 읽으려면 브라우저에서 자바스크립트를 켜 주세요.</p></noscript>
+    </section>
+  </main>
+
+  <footer class="container site-footer">
+    <p>날짜와 시각은 미국 동부시간(ET) 기준입니다.</p>
+  </footer>
+
+  <template id="article-template">
+    <article class="article-card">
+      <header class="article-meta">
+        <span class="article-source"></span>
+        <time class="article-date"></time>
+      </header>
+      <h3 class="article-title"></h3>
+      <p class="original-title" lang="en"></p>
+      <ul class="article-summary"></ul>
+      <p class="headline-only" hidden>확인된 정보가 제목과 발행일에 한정되어 요약을 제공하지 않습니다.</p>
+      <footer class="article-footer">
+        <div class="article-badges">
+          <span class="badge access-badge"></span>
+          <span class="badge verification-badge"></span>
+        </div>
+        <a class="original-link" target="_blank" rel="noopener noreferrer">
+          원문 보기 <span aria-hidden="true">↗</span>
+        </a>
+      </footer>
+    </article>
+  </template>
+</body>
+</html>

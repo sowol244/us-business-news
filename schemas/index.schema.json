@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "뉴스 날짜 인덱스 v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "timeZone", "updatedAt", "issues"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "timeZone": { "const": "America/New_York" },
+    "updatedAt": {
+      "oneOf": [
+        { "$ref": "#/$defs/timestamp" },
+        { "type": "null" }
+      ]
+    },
+    "issues": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["date", "articleCount"],
+        "properties": {
+          "date": { "type": "string", "format": "date", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+          "articleCount": { "type": "integer", "minimum": 1 }
+        }
+      }
+    }
+  },
+  "if": { "properties": { "issues": { "minItems": 1 } } },
+  "then": { "properties": { "updatedAt": { "$ref": "#/$defs/timestamp" } } },
+  "$defs": {
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\dZ$"
+    }
+  }
+}

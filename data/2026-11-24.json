@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "kind": "news",
+  "date": "2026-11-24",
+  "articles": [
+    {
+      "id": "ap:https://apnews.com/article/consumer-economy-confidence-inflation-9d13d96cc3e4bac8f334f9145c718e42",
+      "source": "ap",
+      "titleOriginal": "US consumer confidence soars with elections in the rearview mirror and gas prices in retreat",
+      "titleKo": "미국 소비자신뢰지수 103.3으로 상승",
+      "summaryKo": [
+        "콘퍼런스보드의 11월 소비자신뢰지수가 10월 91.9에서 103.3으로 올랐습니다.",
+        "휘발유 가격이 하락하고, 조사 응답자들의 일자리 전망이 개선됐습니다."
+      ],
+      "url": "https://apnews.com/article/consumer-economy-confidence-inflation-9d13d96cc3e4bac8f334f9145c718e42",
+      "publishedAt": "2026-11-24T15:04:22Z",
+      "access": "free",
+      "verification": "full",
+      "collectedAt": "2026-11-26T05:26:33Z"
+    },
+    {
+      "id": "washpost:https://www.washingtonpost.com/business/2026/11/24/al-gore-purchase-his-hometown-newspaper/",
+      "source": "washpost",
+      "titleOriginal": "Al Gore to purchase his hometown newspaper",
+      "titleKo": "앨 고어, 고향 테네시주 지역신문 인수 예정",
+      "summaryKo": [
+        "앨 고어 전 미국 부통령이 테네시주 카시지의 지역신문 카시지 쿠리어를 인수할 예정입니다.",
+        "신문사는 인수 금액을 공개하지 않았으며 기존 직원 모두가 계속 근무한다고 밝혔습니다."
+      ],
+      "url": "https://www.washingtonpost.com/business/2026/11/24/al-gore-purchase-his-hometown-newspaper/",
+      "publishedAt": "2026-11-24T21:55:00Z",
+      "access": "unknown",
+      "verification": "full",
+      "collectedAt": "2026-11-26T05:26:33Z"
+    }
+  ]
+}
