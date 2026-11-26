@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "news",
+  "date": "2026-11-25",
+  "articles": [
+    {
+      "id": "ap:https://apnews.com/article/wall-street-stocks-dow-nasdaq-94fdb0ecb060ec65c0b02879ce0d2d09",
+      "source": "ap",
+      "titleOriginal": "How major US stock indexes fared Wednesday 11/25/2026",
+      "titleKo": "미국 증시, 장중 급락 만회하며 혼조 마감",
+      "summaryKo": [
+        "S&P 500은 장중 3.2%까지 밀렸으나 하락 폭을 줄여 0.3% 내린 채 마감했습니다.",
+        "다우지수는 0.3% 상승했고, 나스닥 종합지수는 0.6% 하락했습니다."
+      ],
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-94fdb0ecb060ec65c0b02879ce0d2d09",
+      "publishedAt": "2026-11-25T21:17:18Z",
+      "access": "free",
+      "verification": "full",
+      "collectedAt": "2026-11-26T05:26:33Z"
+    },
+    {
+      "id": "ap:https://apnews.com/article/tsmc-computer-chips-arizona-trump-cdc7faa84895ddeb19bd114061e9dd85",
+      "source": "ap",
+      "titleOriginal": "Trump heads to Arizona next week for a high-stakes expansion of TSMC’s computer chip factories",
+      "titleKo": "TSMC, 애리조나 반도체 공장 확장 착공 예정",
+      "summaryKo": [
+        "백악관과 TSMC에 따르면 트럼프 대통령은 12월 4일 애리조나에서 열리는 공장 착공식에 참석할 예정입니다.",
+        "AP에 따르면 이번 공사는 TSMC 애리조나 시설의 다섯 번째 확장 단계입니다."
+      ],
+      "url": "https://apnews.com/article/tsmc-computer-chips-arizona-trump-cdc7faa84895ddeb19bd114061e9dd85",
+      "publishedAt": "2026-11-25T22:56:36Z",
+      "access": "free",
+      "verification": "full",
+      "collectedAt": "2026-11-26T05:26:33Z"
+    },
+    {
+      "id": "washpost:https://www.washingtonpost.com/dc-md-va/2026/11/25/major-airlines-offer-thanksgiving-travel-waivers-up-down-east-coast/",
+      "source": "washpost",
+      "titleOriginal": "Major airlines offer Thanksgiving travel waivers up and down the East Coast",
+      "titleKo": "미국 4대 항공사, 추수감사절 동부 노선 변경 수수료 면제",
+      "summaryKo": [
+        "미국 동부에 폭우와 강풍이 예보되자 아메리칸·델타·사우스웨스트·유나이티드가 일부 추수감사절 항공편의 무료 변경을 허용했습니다.",
+        "적용 공항과 변경 가능한 기간은 항공사별로 다릅니다."
+      ],
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/11/25/major-airlines-offer-thanksgiving-travel-waivers-up-down-east-coast/",
+      "publishedAt": "2026-11-25T21:27:00Z",
+      "access": "unknown",
+      "verification": "full",
+      "collectedAt": "2026-11-26T05:26:33Z"
+    }
+  ]
+}
