@@ -47,6 +47,122 @@
       "access": "unknown",
       "verification": "full",
       "collectedAt": "2026-11-26T05:26:33Z"
+    },
+    {
+      "id": "reuters:https://www.reuters.com/business/us-inflation-rises-further-october-2026-11-25/",
+      "source": "reuters",
+      "titleOriginal": "US economy roars ahead in third quarter, inflation remains high in October",
+      "titleKo": "미국 3분기 성장률 상향 조정, 10월 물가는 높은 수준",
+      "summaryKo": [
+        "미국 3분기 실질 GDP 성장률은 연율 3.4%에서 4.3%로 상향 조정됐습니다.",
+        "10월 개인소비지출 물가지수는 전년 동월 대비 3.8% 상승했습니다."
+      ],
+      "url": "https://www.reuters.com/business/us-inflation-rises-further-october-2026-11-25/",
+      "publishedAt": "2026-11-25T13:45:00Z",
+      "access": "unknown",
+      "verification": "partial",
+      "collectedAt": "2026-11-26T21:55:42Z"
+    },
+    {
+      "id": "reuters:https://www.reuters.com/business/fed-survey-shows-continued-growth-sticky-inflation-recent-weeks-2026-11-25/",
+      "source": "reuters",
+      "titleOriginal": "Fed survey shows continued economic growth, sticky inflation in recent weeks",
+      "titleKo": "연준 지역경제 조사, 성장 지속에도 물가 압력 여전",
+      "summaryKo": [
+        "연준의 12개 지역 가운데 8개 지역은 경제활동 증가를, 4개 지역은 변화가 없었다고 보고했습니다.",
+        "소비 지출은 정체됐으며 기업들은 향후 비용과 가격이 계속 오를 것으로 예상했습니다."
+      ],
+      "url": "https://www.reuters.com/business/fed-survey-shows-continued-growth-sticky-inflation-recent-weeks-2026-11-25/",
+      "publishedAt": "2026-11-25T19:19:00Z",
+      "access": "unknown",
+      "verification": "partial",
+      "collectedAt": "2026-11-26T21:55:42Z"
+    },
+    {
+      "id": "reuters:https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+      "source": "reuters",
+      "titleOriginal": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat",
+      "titleKo": "트럼프, 산업 과잉생산 대응 명분으로 신규 관세 발표",
+      "summaryKo": [
+        "미국 정부는 중국·일본·유럽연합을 포함한 14개 교역 상대국에 신규 관세를 제안했습니다.",
+        "미 무역대표부는 새로운 관세가 무역협정의 상한을 넘지 않을 것이라고 설명했습니다."
+      ],
+      "url": "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+      "publishedAt": "2026-11-25T13:15:00Z",
+      "access": "unknown",
+      "verification": "partial",
+      "collectedAt": "2026-11-26T21:55:42Z"
+    },
+    {
+      "id": "latimes:https://www.latimes.com/business/story/2026-11-25/how-one-developer-plans-to-build-big-data-center-in-la-county-where-nimbys-wont-notice",
+      "source": "latimes",
+      "titleOriginal": "How one developer plans to build a big data center in L.A. County where NIMBYs won’t notice",
+      "titleKo": "LA 카운티 대규모 데이터센터 건설 추진",
+      "summaryKo": [
+        "부동산 개발업체가 시티오브인더스트리의 골프장 부지에 데이터센터를 건설하기 위해 인허가를 추진하고 있습니다."
+      ],
+      "url": "https://www.latimes.com/business/story/2026-11-25/how-one-developer-plans-to-build-big-data-center-in-la-county-where-nimbys-wont-notice",
+      "publishedAt": "2026-11-25T11:00:00Z",
+      "access": "unknown",
+      "verification": "partial",
+      "collectedAt": "2026-11-26T21:55:42Z"
+    },
+    {
+      "id": "latimes:https://www.latimes.com/business/story/2026-11-25/shein-to-pay-100-million-to-settle-claims-it-deceived-u-s-shoppers",
+      "source": "latimes",
+      "titleOriginal": "Shein to pay $100 million to settle claims it deceived U.S. shoppers",
+      "titleKo": "쉬인, 미국 소비자 기만 혐의 관련 1억 달러 합의",
+      "summaryKo": [
+        "쉬인은 배송·고객 후기 등에 관한 미국 연방거래위원회의 소비자 기만 혐의를 해결하기 위해 1억 달러를 지급하기로 합의했습니다."
+      ],
+      "url": "https://www.latimes.com/business/story/2026-11-25/shein-to-pay-100-million-to-settle-claims-it-deceived-u-s-shoppers",
+      "publishedAt": "2026-11-25T11:00:00Z",
+      "access": "unknown",
+      "verification": "partial",
+      "collectedAt": "2026-11-26T21:55:42Z"
+    },
+    {
+      "id": "latimes:https://www.latimes.com/business/story/2026-11-25/spacex-gets-approval-for-1-million-data-center-satellites",
+      "source": "latimes",
+      "titleOriginal": "SpaceX gets approval for 1 million data center satellites",
+      "titleKo": "스페이스X, 데이터센터 위성 100만 기 발사 승인",
+      "summaryKo": [
+        "미국 연방통신위원회가 스페이스X의 우주 데이터센터 위성 계획을 승인했습니다."
+      ],
+      "url": "https://www.latimes.com/business/story/2026-11-25/spacex-gets-approval-for-1-million-data-center-satellites",
+      "publishedAt": "2026-11-26T02:38:00Z",
+      "access": "unknown",
+      "verification": "partial",
+      "collectedAt": "2026-11-26T21:55:42Z"
+    },
+    {
+      "id": "wsj:https://www.wsj.com/economy/why-this-is-a-terrible-time-for-new-tariffs-a2e6b1d0",
+      "source": "wsj",
+      "titleOriginal": "Why This Is a Terrible Time for New Tariffs",
+      "titleKo": "WSJ 분석: 지금 신규 관세를 부과하기 어려운 이유",
+      "summaryKo": [
+        "WSJ는 주요 물가지표가 3년 만에 최고 수준에 도달한 시점에 미국 정부가 추가 관세를 발표한 점을 지적했습니다."
+      ],
+      "url": "https://www.wsj.com/economy/why-this-is-a-terrible-time-for-new-tariffs-a2e6b1d0",
+      "publishedAt": "2026-11-26T01:00:00Z",
+      "access": "unknown",
+      "verification": "partial",
+      "collectedAt": "2026-11-26T21:55:42Z"
+    },
+    {
+      "id": "ap:https://apnews.com/article/black-friday-shopping-ai-essentials-5e542ffd1f94f24e4ffb79d412223544",
+      "source": "ap",
+      "titleOriginal": "Necessities join gifts in Black Friday shopping carts as AI and higher costs steer spending",
+      "titleKo": "블랙프라이데이, 선물뿐 아니라 생필품 구매 증가",
+      "summaryKo": [
+        "물가 부담과 AI 쇼핑 도구의 확산으로 미국 소비자들이 할인 행사에서 생필품도 적극 구매하고 있습니다.",
+        "어도비에 따르면 11월 1~22일 미국 온라인 소비액은 전년 같은 기간보다 9.1% 늘었습니다."
+      ],
+      "url": "https://apnews.com/article/black-friday-shopping-ai-essentials-5e542ffd1f94f24e4ffb79d412223544",
+      "publishedAt": "2026-11-26T01:55:14Z",
+      "access": "free",
+      "verification": "partial",
+      "collectedAt": "2026-11-26T21:55:42Z"
     }
   ]
 }

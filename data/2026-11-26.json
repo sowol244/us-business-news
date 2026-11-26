@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "kind": "news",
+  "date": "2026-11-26",
+  "articles": [
+    {
+      "id": "reuters:https://www.reuters.com/world/china/five-takeaways-trumps-new-tariffs-2026-11-26/",
+      "source": "reuters",
+      "titleOriginal": "Five takeaways from Trump's new tariffs",
+      "titleKo": "트럼프의 신규 관세안, 주요 쟁점 5가지",
+      "summaryKo": [
+        "미국은 중국과 유럽연합 등 14개 교역 상대국에 추가 관세를 제안했습니다.",
+        "새 관세는 기존 또는 향후 무역협정의 세율 상한을 고려해 적용할 방침입니다."
+      ],
+      "url": "https://www.reuters.com/world/china/five-takeaways-trumps-new-tariffs-2026-11-26/",
+      "publishedAt": "2026-11-26T13:04:00Z",
+      "access": "unknown",
+      "verification": "partial",
+      "collectedAt": "2026-11-26T21:55:42Z"
+    },
+    {
+      "id": "reuters:https://www.reuters.com/business/status-asian-nations-trade-talks-with-trump-2026-11-26/",
+      "source": "reuters",
+      "titleOriginal": "Status of Asian nations' trade talks with Trump",
+      "titleKo": "미국과 아시아 국가 간 관세 협상 현황",
+      "summaryKo": [
+        "미국은 한국에 대한 15% 관세율을 유지하되 후속 협의와 기존 무역협정 이행 상황에 따라 인상할 수 있다고 밝혔습니다.",
+        "일본과 대만, 인도 등도 기존 협정과 신규 관세안을 놓고 협상하고 있습니다."
+      ],
+      "url": "https://www.reuters.com/business/status-asian-nations-trade-talks-with-trump-2026-11-26/",
+      "publishedAt": "2026-11-26T10:47:06Z",
+      "access": "unknown",
+      "verification": "partial",
+      "collectedAt": "2026-11-26T21:55:42Z"
+    },
+    {
+      "id": "reuters:https://www.reuters.com/business/finance/european-stocks-rally-tech-banks-rebound-tariff-fears-ease-2026-11-26/",
+      "source": "reuters",
+      "titleOriginal": "European stocks end higher on easing tariff fears, ECB leadership continuity",
+      "titleKo": "유럽 증시, 미국 관세 우려 완화에 상승",
+      "summaryKo": [
+        "유럽연합에 대한 미국의 신규 관세가 예상보다 덜 강할 수 있다는 전망에 유럽 증시가 상승했습니다.",
+        "미국 담배회사 알트리아가 인수를 검토한다는 소식에 임페리얼브랜즈 주가도 급등했습니다."
+      ],
+      "url": "https://www.reuters.com/business/finance/european-stocks-rally-tech-banks-rebound-tariff-fears-ease-2026-11-26/",
+      "publishedAt": "2026-11-26T08:32:00Z",
+      "access": "unknown",
+      "verification": "partial",
+      "collectedAt": "2026-11-26T21:55:42Z"
+    },
+    {
+      "id": "ap:https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314",
+      "source": "ap",
+      "titleOriginal": "Global stocks rise and tech shares rebound as US closes for Thanksgiving",
+      "titleKo": "미국 추수감사절 휴장 속 글로벌 증시와 기술주 반등",
+      "summaryKo": [
+        "미국 증시가 추수감사절로 휴장한 가운데 아시아와 유럽 증시가 상승했습니다.",
+        "AI 관련 종목에 매수세가 유입됐고 미국 S&P 500 선물도 상승했습니다."
+      ],
+      "url": "https://apnews.com/article/stocks-markets-ai-oil-bonds-320cd8c9c286a7773797bf2f478ef314",
+      "publishedAt": "2026-11-26T05:21:53Z",
+      "access": "free",
+      "verification": "partial",
+      "collectedAt": "2026-11-26T21:55:42Z"
+    },
+    {
+      "id": "latimes:https://www.latimes.com/business/story/2026-11-26/walmart-delivery-drones-are-set-to-touch-down-in-los-angeles",
+      "source": "latimes",
+      "titleOriginal": "Walmart delivery drones are set to touch down in Los Angeles",
+      "titleKo": "월마트, 로스앤젤레스 드론 배송 추진",
+      "summaryKo": [
+        "월마트는 알파벳 산하 윙과 협력해 2027년 로스앤젤레스에 드론 배송망을 구축할 계획입니다."
+      ],
+      "url": "https://www.latimes.com/business/story/2026-11-26/walmart-delivery-drones-are-set-to-touch-down-in-los-angeles",
+      "publishedAt": "2026-11-26T11:00:00Z",
+      "access": "unknown",
+      "verification": "partial",
+      "collectedAt": "2026-11-26T21:55:42Z"
+    }
+  ]
+}
