@@ -3,7 +3,7 @@
 미국 주요 언론의 비즈니스 기사를 날짜별로 읽는 정적 사이트입니다. 기본 브랜치는 `main`입니다. 브라우저가 `data/index.json`에서 가장 최신 발행일을 선택하고 해당 날짜의 JSON을 읽습니다. 날짜를 바꾸면 선택한 언론사와 검색어가 유지됩니다.
 
 - [GitHub Pages에서 열기](https://sowol244.github.io/us-business-news/)
-- [Vercel에서 열기](https://usnews-kohl.vercel.app/)
+- [Vercel에서 열기](https://usnews-sowol.vercel.app/)
 
 ## 날짜 인덱스
 
