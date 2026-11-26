@@ -163,6 +163,21 @@
       "access": "free",
       "verification": "partial",
       "collectedAt": "2026-11-26T21:55:42Z"
+    },
+    {
+      "source": "ap",
+      "titleOriginal": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
+      "titleKo": "미국, 보조금·과잉생산 문제로 중국·EU 등 관세 인상 추진",
+      "summaryKo": [
+        "미국 정부는 중국·유럽연합·대만과 11개국의 수입품에 15~35% 관세를 부과하는 방안을 발표했습니다.",
+        "관세는 기존 관세를 대체할 가능성이 있으며, AP는 물가와 성장에 미치는 영향이 제한적일 것이라는 경제학자들의 견해도 전했습니다."
+      ],
+      "url": "https://apnews.com/article/trump-tariffs-china-european-union-367083ea32f71fd7f70029ba7df66bf0",
+      "publishedAt": "2026-11-25T13:11:06Z",
+      "access": "free",
+      "verification": "full",
+      "id": "ap:https://apnews.com/article/trump-tariffs-china-european-union-367083ea32f71fd7f70029ba7df66bf0",
+      "collectedAt": "2026-11-26T23:40:54Z"
     }
   ]
 }

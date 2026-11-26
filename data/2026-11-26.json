@@ -76,6 +76,78 @@
       "access": "unknown",
       "verification": "partial",
       "collectedAt": "2026-11-26T21:55:42Z"
+    },
+    {
+      "source": "ap",
+      "titleOriginal": "Trump calls the pre-election GDP figures ‘fake’ and demands an investigation of Commerce Department",
+      "titleKo": "트럼프, 선거 전 GDP 통계 조작 주장하며 조사 요구",
+      "summaryKo": [
+        "트럼프 대통령은 3분기 GDP 성장률이 3.4%에서 4.3%로 상향 조정된 뒤, 선거 전 경제 통계가 조작됐다며 조사를 요구했습니다.",
+        "미국 경제분석국은 GDP와 고용 통계를 정기적으로 수정하며, 해당 조정도 사전 일정에 따른 것이라고 AP는 보도했습니다."
+      ],
+      "url": "https://apnews.com/article/trump-gdp-economy-midterms-4fd800b44005ae11f950f96ff62f876e",
+      "publishedAt": "2026-11-26T16:08:13Z",
+      "access": "free",
+      "verification": "full",
+      "id": "ap:https://apnews.com/article/trump-gdp-economy-midterms-4fd800b44005ae11f950f96ff62f876e",
+      "collectedAt": "2026-11-26T23:40:54Z"
+    },
+    {
+      "source": "ap",
+      "titleOriginal": "China and others express anger, regret over new US tariff hikes",
+      "titleKo": "미국 새 관세안에 중국·일본 등 반발",
+      "summaryKo": [
+        "중국·일본·싱가포르 등은 미국의 신규 관세안에 반발하며 교역 협상에 미칠 영향을 우려했습니다.",
+        "미국은 중국에 20%, 일본에 최대 15% 등의 관세를 제안했으며, 시행은 내년 초로 전망됩니다."
+      ],
+      "url": "https://apnews.com/article/us-tariffs-china-japan-singapore-b94a693004ad8f9b5e78f7aafb196a71",
+      "publishedAt": "2026-11-26T10:00:02Z",
+      "access": "free",
+      "verification": "full",
+      "id": "ap:https://apnews.com/article/us-tariffs-china-japan-singapore-b94a693004ad8f9b5e78f7aafb196a71",
+      "collectedAt": "2026-11-26T23:40:54Z"
+    },
+    {
+      "source": "reuters",
+      "titleOriginal": "UK's Imperial Brands says Altria weighs possible offer",
+      "titleKo": "임페리얼브랜즈, 알트리아 인수 검토 소식 확인",
+      "summaryKo": [
+        "영국 담배회사 임페리얼브랜즈는 미국 알트리아가 회사를 인수하는 방안을 검토 중이라고 밝혔습니다.",
+        "임페리얼브랜즈는 아직 공식 제안을 받지 않았으며, 알트리아는 일부 사업 인수를 위해 제3자와도 논의 중이라고 Reuters는 전했습니다."
+      ],
+      "url": "https://www.reuters.com/world/uk/uks-imperial-brands-says-altria-weighs-possible-offer-2026-11-26/",
+      "publishedAt": "2026-11-26T17:37:24Z",
+      "access": "unknown",
+      "verification": "partial",
+      "id": "reuters:https://www.reuters.com/world/uk/uks-imperial-brands-says-altria-weighs-possible-offer-2026-11-26/",
+      "collectedAt": "2026-11-26T23:40:54Z"
+    },
+    {
+      "source": "wsj",
+      "titleOriginal": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
+      "titleKo": "추수감사절 휴장 전 미국 주가지수 선물 상승",
+      "summaryKo": [
+        "직전 거래일의 반등 흐름에 이어 미국 주가지수 선물이 상승했습니다.",
+        "나스닥 선물은 0.65%, S&P 500 선물은 0.7%, 다우 선물은 0.4% 올랐습니다."
+      ],
+      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82",
+      "publishedAt": "2026-11-26T13:01:00Z",
+      "access": "unknown",
+      "verification": "partial",
+      "id": "wsj:https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82",
+      "collectedAt": "2026-11-26T23:40:54Z"
+    },
+    {
+      "source": "ft",
+      "titleOriginal": "Altria explores takeover bid for Imperial Brands",
+      "titleKo": "알트리아, 임페리얼브랜즈 인수 제안 검토",
+      "summaryKo": [],
+      "url": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9",
+      "publishedAt": "2026-11-26T13:28:17Z",
+      "access": "paywall",
+      "verification": "headline",
+      "id": "ft:https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9",
+      "collectedAt": "2026-11-26T23:40:54Z"
     }
   ]
 }
