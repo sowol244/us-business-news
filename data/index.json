@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
   "timeZone": "America/New_York",
-  "updatedAt": "2026-11-26T23:40:54Z",
+  "updatedAt": "2026-11-28T00:07:14Z",
   "issues": [
     {
+      "date": "2026-11-27",
+      "articleCount": 8
+    },
+    {
       "date": "2026-11-26",
-      "articleCount": 10
+      "articleCount": 12
     },
     {
       "date": "2026-11-25",

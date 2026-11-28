@@ -148,6 +148,36 @@
       "verification": "headline",
       "id": "ft:https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9",
       "collectedAt": "2026-11-26T23:40:54Z"
+    },
+    {
+      "id": "washpost:https://www.washingtonpost.com/business/2026/11/26/billionaire-marc-andreessen-takes-case-against-red-tape-federal-reserve/",
+      "source": "washpost",
+      "titleOriginal": "Tech billionaire takes his case against red tape to the Federal Reserve",
+      "titleKo": "테크 억만장자, 연준에서 규제 완화 주장 예고",
+      "summaryKo": [
+        "마크 앤드리슨은 연준의 AI·생산성 태스크포스에서 의료·교육·주택 분야의 규제가 생산성 향상을 막는다는 주장을 내놓겠다고 밝혔습니다.",
+        "그의 투자 회사가 해당 분야에 상당한 지분을 보유하고 있어, 태스크포스 구성의 이해관계도 함께 다뤘습니다."
+      ],
+      "url": "https://www.washingtonpost.com/business/2026/11/26/billionaire-marc-andreessen-takes-case-against-red-tape-federal-reserve/",
+      "publishedAt": "2026-11-26T10:00:00Z",
+      "access": "free",
+      "verification": "full",
+      "collectedAt": "2026-11-28T00:07:14Z"
+    },
+    {
+      "id": "ap:https://apnews.com/article/black-friday-deals-shopping-stores-online-21e10113de5d5941024b3220bec29433",
+      "source": "ap",
+      "titleOriginal": "Neither inflation nor bad weather deters Black Friday shoppers from seeking deals",
+      "titleKo": "물가·악천후에도 블랙프라이데이 쇼핑객은 할인 찾아",
+      "summaryKo": [
+        "추수감사절 뒤 쇼핑객들이 할인 상품을 찾아 매장에 몰렸지만, 필수품과 행사 상품 위주로 구매하는 등 지출을 조절했습니다.",
+        "AP는 연말 소매 매출 전망과 추수감사절 온라인 지출, AI 쇼핑 도구 이용 흐름도 전했습니다."
+      ],
+      "url": "https://apnews.com/article/black-friday-deals-shopping-stores-online-21e10113de5d5941024b3220bec29433",
+      "publishedAt": "2026-11-27T00:52:50Z",
+      "access": "free",
+      "verification": "full",
+      "collectedAt": "2026-11-28T00:07:14Z"
     }
   ]
 }
